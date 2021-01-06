@@ -11,7 +11,7 @@
     "@slack/web-api": "^5.10.0",
     "@slack/webhook": "^5.0.3",
     "airtable": "^0.9.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
